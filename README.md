@@ -1,4 +1,4 @@
-##In this Project ,I have tried to analyze different factors leading to higher IMDB score.The success of movie is Predicted by its IMDB score.
+# In this Project ,I have tried to analyze different factors leading to higher IMDB score.The success of movie is Predicted by its IMDB score.
 
 
 **Higher the IMDB score,successful the movie is!!**
@@ -6,7 +6,7 @@
 _Italics_ For this purpose I have used different regression models to predict movie IMDB score and later classified the movie into hit,
 average and flop using different classification models.
 
-###The performance of different model:-
+## The performance of different model:-
 
 |Regression Model|Mean_squared_error|
 | --- | --- |
