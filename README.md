@@ -3,7 +3,7 @@
 
 **Higher the IMDB score,successful the movie is!!**
 
-_Italics_ For this purpose I have used different regression models to predict movie IMDB score and later classified the movie into hit,
+For this purpose I have used different regression models to predict movie IMDB score and later classified the movie into hit,
 average and flop using different classification models.
 
 ## The performance of different model:-
@@ -27,3 +27,5 @@ average and flop using different classification models.
 | Random Forest | 130 | 0.83 | 0.54 | 0.50 | 0.51 |
 | Gradient Boosting | 127 | 0.83 | 0.54 | 0.51 | 0.52 |
 | XGBoost | 139 | 0.82 | 0.52 | 0.51 | 0.51 |
+
+
